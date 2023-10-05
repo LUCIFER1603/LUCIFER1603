@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LUCIFER1603
+- 👋 Hi, I’m @Ishaan anand
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c language
 
